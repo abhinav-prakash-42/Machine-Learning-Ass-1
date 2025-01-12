@@ -7,7 +7,7 @@ This repository provides a Python implementation of linear regression using vari
 ---
 
 ### **Files**
-- **`main.py`**: The Python script containing the implementation of linear regression and gradient descent.
+- **`src.ipynb`**: The Python script containing the implementation of linear regression and gradient descent.
 - **`linearX.csv`**: Contains the feature values (X).
 - **`linearY.csv`**: Contains the target values (Y).
 - **Generated Graphs**:
